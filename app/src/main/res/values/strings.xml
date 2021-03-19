@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">android-shared</string>
+
+    <string name="btn_remove">Remove</string>
 </resources>
